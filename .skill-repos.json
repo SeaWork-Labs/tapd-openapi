@@ -1,0 +1,7 @@
+{
+  "slug": "tapd-openapi",
+  "displayName": "tapd-openapi",
+  "description": "TAPD OpenAPI 操作：需求、缺陷、任务、迭代、Wiki、评论、工时与附件。",
+  "releaseVersion": "1.0.2",
+  "authorVersion": "1.0.0"
+}
